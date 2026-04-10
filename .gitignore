@@ -1,0 +1,9 @@
+# Tool directories
+.claude/
+.minimax/
+
+# Generated/intermediate data files
+*.json
+
+# Generation scripts
+gen_*.py
